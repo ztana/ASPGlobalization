@@ -2,6 +2,7 @@
 Using asp.net and c#. a multi-language website demo.
 this project developed by VS 2015.
 used asp.net web forms site as start.
+shows how to have multiple languages of a website, how to get resources in code (C#) and how to put variables inside resource.
 
 add App_GlobalResources folder, then add your languages. Resource name should follow 
 <link>https://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx</link>
