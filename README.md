@@ -1,5 +1,5 @@
 # ASPGlobalization
-Using asp.net and c#. a multi-language website demo.
+A multi-language website demo Using asp.net and c#.
 this project developed by VS 2015.
 used asp.net web forms site as start.
 shows how to have multiple languages of a website, how to get resources in code (C#) and how to put variables inside resource.
